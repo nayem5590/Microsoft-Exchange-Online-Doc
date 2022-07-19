@@ -1,0 +1,29 @@
+1.	What is MS 365?
+2.	Why we use MS 365? Tell me some benefits than traditional MS Office.
+3.	What is tenant? Why need tenant?
+4.	What is subscription and license?
+5.	What is DNS?
+6.	What is Nameserver?
+7.	What is TXT & MX record?
+8.	If txt record is not available what should do?
+9.	If MX record not is available, then what will happen?
+10.	How to check DNS record through Command Prompt?
+11.	What is powershell?
+12.	How to connect powershell with MS 365?
+13.	How to connect powershell with EAC?
+14.	How to check powershell connect with EAC properly?
+15.	Is it possible to add and remove domain through powershell?
+16.	One user can’t login to his account, it’s showing access denied.
+17.	How to check one user activity?
+18.	Can’t find last three months’ activity log through audit log, what happened?
+19.	What is MRM? How it works?
+20.	What action is available on retention tag?
+21.	Can’t access office apps through android, what happened?
+22.	What is POP3 and IMAP?
+23.	What is the difference between them?
+24.	What is SMTP? Is it required to use SMTP on MS 365?
+25.	What is MAPI?
+26.	If MAPI is disable, what will happen with end user?
+27.	What is role policy?
+28.	A user can’t use EAC, why?
+29.	Can exchange admin or security admin use MS 365 admin center?

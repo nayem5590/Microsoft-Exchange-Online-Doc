@@ -1,0 +1,37 @@
+1.what is m365?
+2.What is traditional MS and Office 365?
+3. What is tenent, sbscription and licence?
+4. How to add a domain in O365?
+5. Which service we can add duriang the domain verification process?
+6.how long data will kept after the licence get expired/?
+7. What is DNS and How many type of DNS record?
+8. What is MX record and how to execute MX record/?
+9. How many domain can be added in a tenet?
+10. How to Connect to Exchange Online?
+11. What is difference between MS365 powerShell and Azure AD powershell?
+12 What type of groups in Admin Center and EAC? 
+13. Whats the purpose of mail enable security group?
+14. What is Shared mailbox?
+15. Whcich licence is required for Shared mailbox?
+16. If i do not have Exchange online plan 2 , can i have shared mailbox?
+17. what is the mailbox storage of shared mailbox?
+18. How to restrics users for sending email from the shared mailbox?
+19. What is App password and how to generate app password?
+20. What is RBAC? 
+21. What is In-place Archive?
+22. what licence need for in-place archive?
+23. How to enable in-place archive?
+24. Do i need a specific licence for this feature?
+25. what the archive limitation?
+26. what is unlimited archiveing?
+27. How to back-up data? i have data in my mailbox and i want to back-up my mailbox.
+28. what is inplace-hold and litigation hold?
+29. If I delete all email mistakenly can i get then if i enable litigation hold?
+30. whcih licence we need to have litigation hold?
+31. I have exchange online plan 1, can i have litigation hold feature?
+32. In my organization , i want share my free-busy info with my partner, how can i do that?
+33. I want to delete all to that i have in  my Inbox, How can I delete that?
+34. What is recipient rate limit and waht is recipient limit?
+35. How can i restricted user by generating any app password?
+36. I'm tring to log-in ECP and its showing error message" access Denaied", How can i fix it?
+37. User A Sending mail to user B but user C is receivng the email, what can be the reason? 

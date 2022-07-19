@@ -1,0 +1,125 @@
+CP-1 (Partho)
+1. What are the role is O365?
+ans: Admin roles gives users permission to view data and complete tasks in the admin centers.Give users only the access they need by
+assigning the least-permissive role.
+Exchange Admin role, Global Admin, Global Reader, Helpdesk Admin, Sharepoint Admin, User Admin, Teams service admin,Service support Admin
+
+2.What is global Reader?
+Ans: Can view all administrative features and settings in all admin center. Catagory: read-only
+
+3.can USER admin change the settings?
+Ans: Users who need to do the following actions:
+Add users and groups
+Assign licenses
+Manage most user properties, except username
+Create and manage user views
+Open and manage service requests
+Update password expiration policies
+Monitor service health
+Users who need to do the following actions for non-admin users and users assigned to the Directory reader, Guest inviter, Helpdesk admin,
+Message Center reader, or Reports reader roles:
+
+Manage usernames
+Delete and restore users
+Reset passwords
+Force users to sign out by invalidating refresh tokens
+Update (FIDO) device keys
+Important: User admins can change passwords for people who might have access to sensitive, private, or critical information. 
+Changing the password of a user provides the potential to assume that user's identity and permissions.
+
+4.What is the purpose of message center in O365?
+
+5. What is Microsoft Search?
+
+6. What is mordern Authentication in O365?
+7. Navigate Modern Authentication?
+8. Can I do it from Powershell?
+
+9.Can users reset their own forgotten password in O365?
+
+10. I dont want my user's to share any info/data outside of my Organization, I want to controll the access of outside of organization.
+Is it possible?
+Ans: EAC> Organizaton> Indivudual Sharing> Uncheck the "Specific information what you want to share"
+11. What is a Guest User in O365? Which permission do thay have?
+Ans :Add people from outside your organization to your teams and channels in ‎Microsoft Teams‎. 
+You can invite anyone with a valid email address to participate as a guest in ‎Teams‎ with full access to team chats, meetings, and files.
+
+12. When can be use the Shared mailbox? Why not use O365 Group mailbox?
+13. can i have In-place hold for my shared mailbox?
+14. can i have archive option for my shared mailbox?
+15. Is their any mailbox storage limit for O365 groups?
+16. What are the retention tag action do we have?
+17. How does RPT work?
+18. what is SMTP journaling?
+19. Difference between Public folder and O365 groups?
+20. How many type of public folder mailboxes there?
+21. Whenever i send a email to a public folder i getting a bounce back message. Why?
+22. Can external Sender send email to O365 Groups?
+23. Can External Sender send email to public Folders?
+24. Is shared mail be part of O365 Groups?
+ 
+
+
+
+
+
+
+
+
+
+
+CP-1 (Rabby)
+1.why user need to select o 365 ? 
+2.limitation of microsoft 365 group ? 
+3.can one person assign in shared mailbox group and microsoft 365 group in the same time ? 
+4.DNS record type with the required for domain setup ?
+5.How to access in shared mailbox from owa and outlook app ?
+6.License for the microsoft 365 group ?
+7.End- user can't access owa what can be the reason ?
+8.tenant access denied what can be the reason for end user ? or exchange administrator have access in tenant or not ?
+9.User getting error to send main in shared mailbox what can be reason ?
+10.Custom retention tag how to work with example ?
+11.one user sending mail from shared mailbox but it's now send what can be the solution for this problem ?
+12.For to add new domain what is the dependency can be there ? without .onmicrosoft.com 
+13.Shared mailbox limit, public folder limit, ofc 365 mailbox limit, 
+14.User cannot get mail contents , why ?
+15.How to assure that user account is compromised or hacked ?
+16.User cannot login mail
+17.Vendor niye ekta questions silo, thikmoto bujhi nai, may be will be asked how to confirm to vendor any details.
+18.Why use txt , mx, cname record
+19.If those record missing then what will happen ?
+20.How to verify ofc 365 and exchange online connection is okay  in Power shell ?
+21.If subscription is deleted then what will happe ?
+22.How do i access unlicensed user mail by not giving any license now ?
+23.Is there any archiving available in shared mailbox ?
+
+
+
+CP1-Retake(rabby)
+1. litigation hold, in place hold, in place archiving? what are the differences btwn them ? is in place archiving and in place hold are same ?
+2. office 365 groups and differences btwn o365 grp mailbox and public folder mail box ?
+3. differces btwn public folder mailbox and shared mailbox ? 
+4. archiving and litigation hold possible in shared mailbox ?
+5. what is domain, dns server, dns hosting ? and what are the differences btwn them ? what are the purposes of them ?
+6. what are the retention policies action ? retention tag policies actions ?
+7. why use auditing ? why use journaling ? 
+8. what is archiving and why we do that ?
+9. shared mailbox need licenses ? and what are the purposes of shared mailbox ?
+10. what are the services of o365 and why we need subscription and licenses ?
+11. what is app password and why we need it ?
+12. what is MFA and what are purposes of MFA ?
+13. what are the purposes of TXT, MX and cname records ?
+14. if i unlicensed any user what will happen ? do i able to use that users mailbox ? and how ?
+15. what will happen after expiration subscription ? do i able to work on o365 account ?
+16. what is Microsoft exchange online ? what is the purpose ?
+17. mail contacts and mail user differences ?
+18.user cannot login mail ? why ?
+19. how we can see the mail activity from the admin ?
+20. public folder mailbox limits, shared mailbox limits, o365 grp mailbox limits ?
+21. Is Exchange online a subscription of microsft 365 ?
+
+
+
+
+
+
